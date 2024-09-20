@@ -1,4 +1,2 @@
 # testGitHubAction
 testGitHubAction
-
-test
